@@ -1,0 +1,15 @@
+[submodule "rowgenerators"]
+	path = rowgenerators
+	url = https://github.com/Metatab/rowgenerators.git
+[submodule "metatab-declarations"]
+	path = metatab-declarations
+	url = https://github.com/Metatab/metatab-declarations.git
+[submodule "geoid"]
+	path = geoid
+	url = https://github.com/Metatab/geoid.git
+[submodule "metatab"]
+	path = metatab
+	url = https://github.com/Metatab/metatab.git
+[submodule "metapack"]
+	path = metapack
+	url = https://github.com/Metatab/metapack.git
