@@ -13,3 +13,6 @@
 [submodule "metapack"]
 	path = metapack
 	url = https://github.com/Metatab/metapack.git
+[submodule "publicdata"]
+	path = publicdata
+	url = https://github.com/Metatab/publicdata.git
