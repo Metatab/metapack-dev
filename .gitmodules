@@ -1,18 +1,24 @@
 [submodule "rowgenerators"]
 	path = rowgenerators
 	url = https://github.com/Metatab/rowgenerators.git
+    branch = master
 [submodule "metatab-declarations"]
 	path = metatab-declarations
 	url = https://github.com/Metatab/metatab-declarations.git
+    branch = master
 [submodule "geoid"]
 	path = geoid
 	url = https://github.com/Metatab/geoid.git
+    branch = master
 [submodule "metatab"]
 	path = metatab
 	url = https://github.com/Metatab/metatab.git
+    branch = master
 [submodule "metapack"]
 	path = metapack
 	url = https://github.com/Metatab/metapack.git
+    branch = master
 [submodule "publicdata"]
 	path = publicdata
 	url = https://github.com/Metatab/publicdata.git
+    branch = master

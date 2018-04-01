@@ -5,3 +5,4 @@
 (cd metatab-declarations && python setup.py develop)
 (cd metatab && python setup.py develop)
 (cd metapack && python setup.py develop)
+(cd publicdata && python setup.py develop)
