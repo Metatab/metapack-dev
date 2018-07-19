@@ -1,8 +1,17 @@
+
 #!/bin/bash
 
-pip install 'python-dateutil<2.7.0'
-(cd geoid && python setup.py develop)
-(cd rowgenerators && python setup.py develop)
-(cd metatab-declarations && python setup.py develop)
-(cd metatab && python setup.py develop)
-(cd metapack && python setup.py develop)
+
+repos=(geoid rowgenerators metatab-declarations metatab metapack publicdata)
+
+# The git stuff fixes a detached HEAD
+# https://stackoverflow.com/a/36375256
+
+for repo in "${repos[@]}"
+do
+    ( cd $repo && \
+      git checkout master &&
+      python setup.py develop 
+    )
+done
+
