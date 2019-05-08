@@ -25,6 +25,3 @@
 [submodule "notebook-templates"]
 	path = notebook-templates
 	url = https://github.com/Metatab/notebook-templates.git
-[submodule "metapack-wp"]
-	path = metapack-wp
-	url = https://github.com/Metatab/metapack-wp.git
