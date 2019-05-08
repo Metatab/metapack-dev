@@ -22,3 +22,6 @@
 	path = publicdata
 	url = https://github.com/Metatab/publicdata.git
     branch = master
+[submodule "notebook-templates"]
+	path = notebook-templates
+	url = https://github.com/Metatab/notebook-templates.git
