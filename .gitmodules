@@ -28,3 +28,6 @@
 [submodule "metapack-wp"]
 	path = metapack-wp
 	url = https://github.com/Metatab/metapack-wp.git
+[submodule "metapack-build"]
+	path = metapack-build
+	url = https://github.com/Metatab/metapack-build.git
