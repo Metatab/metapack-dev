@@ -31,3 +31,6 @@
 [submodule "metapack-build"]
 	path = metapack-build
 	url = https://github.com/Metatab/metapack-build.git
+[submodule "metapack-jupyter"]
+	path = metapack-jupyter
+	url = https://github.com/Metatab/metapack-jupyter.git
