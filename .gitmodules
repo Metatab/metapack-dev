@@ -37,3 +37,6 @@
 [submodule "psurl"]
 	path = psurl
 	url = https://github.com/Metatab/psurl.git
+[submodule "metapack-ld"]
+	path = metapack-ld
+	url = https://github.com/Metatab/metapack-ld.git
