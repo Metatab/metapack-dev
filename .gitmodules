@@ -34,3 +34,6 @@
 [submodule "metapack-jupyter"]
 	path = metapack-jupyter
 	url = https://github.com/Metatab/metapack-jupyter.git
+[submodule "psurl"]
+	path = psurl
+	url = https://github.com/Metatab/psurl.git
