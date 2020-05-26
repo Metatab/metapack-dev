@@ -40,3 +40,12 @@
 [submodule "metapack-ld"]
 	path = metapack-ld
 	url = https://github.com/Metatab/metapack-ld.git
+[submodule "metapack-db"]
+	path = metapack-db
+	url = https://github.com/Metatab/metapack-db.git
+[submodule "metapack-dev"]
+	path = metapack-dev
+	url = https://github.com/Metatab/metapack-dev.git
+[submodule "metapack-github"]
+	path = metapack-github
+	url = https://github.com/Metatab/metapack-github.git
