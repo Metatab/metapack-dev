@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+Fiona
+pyproj==1.9.6
+geopandas
+Shapely
+ipython 
+jupyter
+jupyterlab 
