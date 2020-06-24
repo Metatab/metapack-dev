@@ -1,0 +1,35 @@
+# Dependencies of metatab packages
+# excluding geo
+IPython==6.1.0
+aniso8601
+boto
+boto3
+bs4
+codegen
+colored
+decorator
+filelock
+fs >= 2
+h5py
+invoke
+ipykernel
+jinja2
+jupyter
+jupyter-console<6.0.0
+livestats
+markdown==2.6.11
+meta
+nameparser
+nbconvert
+petl
+prompt-toolkit<2.0.0
+pybtex
+python-dateutil
+pyyaml
+requests
+semantic_version
+tabulate
+terminaltables
+unicodecsv
+wrapt
+xlrd
