@@ -49,3 +49,12 @@
 [submodule "metapack-github"]
 	path = metapack-github
 	url = https://github.com/Metatab/metapack-github.git
+[submodule "sdipylib"]
+	path = sdipylib
+	url = https://github.com/sandiegodata/sdipylib.git
+[submodule "publicdata_census"]
+	path = publicdata_census
+	url = https://github.com/Metatab/publicdata_census.git
+[submodule "publicdata_pums"]
+	path = publicdata_pums
+	url = https://github.com/Metatab/publicdata_pums.git

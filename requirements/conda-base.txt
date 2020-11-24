@@ -1,0 +1,11 @@
+descartes
+Fiona
+geopandas
+ipython
+jupyter
+jupyterlab
+numpy
+pandas
+pyproj
+scipy
+Shapely
