@@ -1,0 +1,64 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+ipython = "*"
+aniso8601 = "*"
+boto = "*"
+boto3 = "*"
+bs4 = "*"
+codegen = "*"
+colored = "*"
+decorator = "*"
+descartes = "*"
+filelock = "*"
+fs = ">=2"
+geopandas = "*"
+h5py = "*"
+invoke = "*"
+ipykernel = "*"
+jupyter = "*"
+jupyter-console = "*"
+jupyterlab = "*"
+meta = "*"
+nameparser = "*"
+nbconvert = "*"
+numpy = "*"
+pandas = "*"
+petl = "*"
+prompt-toolkit = "*"
+pybtex = "*"
+pyproj = "*"
+python-dateutil = "*"
+requests = "*"
+scipy = "*"
+semantic-version = "*"
+tabulate = "*"
+terminaltables = "*"
+unicodecsv = "*"
+wrapt = "*"
+xlrd = "*"
+Fiona = "*"
+Shapely = "*"
+Jinja2 = "*"
+LiveStats = "*"
+Markdown = "*"
+PyYAML = "*"
+importlib-metadata = "<3,>=0.12"
+
+[dev-packages]
+rowgenerators = {editable = true, path = "./rowgenerators"}
+metatabdecl = {editable = true, path = "./metatab-declarations"}
+geoid = {editable = true, path = "./geoid"}
+metatab = {editable = true, path = "./metatab"}
+html5lib = {editable = true, path = "./metapack"}
+publicdata = {editable = true, path = "./publicdata"}
+metapack-build = {editable = true, path = "./metapack-build"}
+metapack-jupyter = {editable = true, path = "./metapack-jupyter"}
+metapack-wp = {editable = true, path = "./metapack-wp"}
+metapack-github = {editable = true, path = "./metapack-github"}
+
+[requires]
+python_version = "3.7"
