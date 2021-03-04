@@ -4,7 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-ipython = "*"
 aniso8601 = "*"
 boto = "*"
 boto3 = "*"
@@ -28,7 +27,6 @@ nbconvert = "*"
 numpy = "*"
 pandas = "*"
 petl = "*"
-prompt-toolkit = "*"
 pybtex = "*"
 pyproj = "*"
 python-dateutil = "*"
@@ -47,6 +45,7 @@ LiveStats = "*"
 Markdown = "*"
 PyYAML = "*"
 importlib-metadata = "<3,>=0.12"
+pre-commit = "*"
 
 [dev-packages]
 rowgenerators = {editable = true, path = "./rowgenerators"}
@@ -56,9 +55,9 @@ metatab = {editable = true, path = "./metatab"}
 html5lib = {editable = true, path = "./metapack"}
 publicdata = {editable = true, path = "./publicdata"}
 metapack-build = {editable = true, path = "./metapack-build"}
-metapack-jupyter = {editable = true, path = "./metapack-jupyter"}
 metapack-wp = {editable = true, path = "./metapack-wp"}
 metapack-github = {editable = true, path = "./metapack-github"}
+metapack-jupyter = {editable = true, path = "./metapack-jupyter"}
 
 [requires]
 python_version = "3.7"
