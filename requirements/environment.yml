@@ -3,12 +3,14 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - python=3.9
   - Fiona
   - IPython
-  - Shapely
+  - shapely<2,>=1.7
   - aniso8601
   - boto
   - boto3
+  - botocore<1.28.0,>=1.27.90
   - bs4
   - colored
   - decorator
@@ -26,7 +28,7 @@ dependencies:
   - markdown
   - nameparser
   - nbconvert
-  - numpy
+  - numpy>=1.14.5
   - pandas
   - petl
   - prompt-toolkit

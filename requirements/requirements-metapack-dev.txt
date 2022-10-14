@@ -1,0 +1,14 @@
+-e rowgenerators
+-e geoid
+-e metatab-declarations
+-e metatab
+-e metapack
+-e metapack-build
+-e metapack-github
+-e metapack-jupyter
+-e metapack-wp
+-e publicdata
+#-e publicdata_census
+#-e publicdata_pums
+
+
