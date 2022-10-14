@@ -1,0 +1,51 @@
+name: metapack
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - Fiona
+  - IPython
+  - Shapely
+  - aniso8601
+  - boto
+  - boto3
+  - bs4
+  - colored
+  - decorator
+  - descartes
+  - filelock
+  - fs >= 2
+  - geopandas
+  - h5py
+  - invoke
+  - ipykernel
+  - ipython
+  - jinja2
+  - jupyter
+  - jupyterlab
+  - markdown
+  - nameparser
+  - nbconvert
+  - numpy
+  - pandas
+  - petl
+  - prompt-toolkit
+  - pybtex
+  - pyproj
+  - python-dateutil
+  - pyyaml
+  - requests
+  - scipy
+  - semantic_version
+  - tabulate
+  - terminaltables
+  - unicodecsv
+  - wrapt
+  - xlrd
+  - pip
+  - pre-commit
+  - pip:
+      - jupyter-console
+      - codegen
+      - livestats
+      - meta
