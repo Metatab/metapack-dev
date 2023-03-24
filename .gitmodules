@@ -58,3 +58,9 @@
 [submodule "publicdata_pums"]
 	path = publicdata_pums
 	url = https://github.com/Metatab/publicdata_pums.git
+[submodule "metapack-docker-server"]
+	path = metapack-docker-server
+	url = https://github.com/Metatab/metapack-docker-server.git
+[submodule "metapack-robot"]
+	path = metapack-robot
+	url = https://github.com/Metatab/metapack-robot.git

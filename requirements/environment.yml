@@ -1,5 +1,5 @@
 name: metapack
-channels:ILST
+channels:
   - conda-forge
   - defaults
 dependencies:

@@ -49,15 +49,16 @@ pre-commit = "*"
 
 [dev-packages]
 rowgenerators = {editable = true, path = "./rowgenerators"}
-metatabdecl = {editable = true, path = "./metatab-declarations"}
 geoid = {editable = true, path = "./geoid"}
 metatab = {editable = true, path = "./metatab"}
-html5lib = {editable = true, path = "./metapack"}
-publicdata = {editable = true, path = "./publicdata"}
+metatabdecl = {editable = true, path = "./metatab-declarations"}
+metapack = {editable = true, path = "./metapack"}
 metapack-build = {editable = true, path = "./metapack-build"}
 metapack-wp = {editable = true, path = "./metapack-wp"}
 metapack-github = {editable = true, path = "./metapack-github"}
 metapack-jupyter = {editable = true, path = "./metapack-jupyter"}
+metapack-robot = {editable = true, path = "./metapack-robot"}
+publicdata = {editable = true, path = "./publicdata"}
 
 [requires]
-python_version = "3.7"
+python_version = "3.10"

@@ -7,6 +7,7 @@
 -e metapack-github
 -e metapack-jupyter
 -e metapack-wp
+-e metapack-robot
 -e publicdata
 #-e publicdata_census
 #-e publicdata_pums
